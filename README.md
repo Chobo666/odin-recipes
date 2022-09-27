@@ -1,2 +1,4 @@
 # odin-recipes
-Project: Recipes from TOP
+Project: Recipes from The Odin Project
+
+A basic recipe website
